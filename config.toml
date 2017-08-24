@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://Bits-and-Bytes-Stevens-Point.github.io/blog/"
+baseurl = "https://Bits-and-Bytes-Stevens-Point.github.io/blog/"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
 title = "Bits & Bytes"
